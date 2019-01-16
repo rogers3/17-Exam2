@@ -19,7 +19,7 @@ def main():
 
 
 ###############################################################################
-# DPME: 2.  READ the doc-strings for the  sum_of_digits  and  is_prime
+# DONE: 2.  READ the doc-strings for the  sum_of_digits  and  is_prime
 # functions defined below.  They are the same as you have seen before.
 # After you UNDERSTAND the doc-string (JUST the doc-string, NOT the code),
 # ASKING QUESTIONS AS NEEDED, change the above _TODO_ to DONE.

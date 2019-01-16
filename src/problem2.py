@@ -281,8 +281,6 @@ class Triangle(object):
         triangle2.shrink_or_expand(2)
         return triangle2
 
-
-
     def get_largest_area(self):
         """
         What comes in:
@@ -309,7 +307,6 @@ class Triangle(object):
         if self.largestarea == -1:
             return self.area()
         return self.largestarea
-
 
 
 ###############################################################################
